@@ -1,5 +1,5 @@
-name: libequivalence
+name: tools
+title: Tools
 version: ~
-title: D Library (libequivalence)
 nav:
-  - modules/ROOT/nav.adoc
+- modules/libequivalence/nav.adoc
