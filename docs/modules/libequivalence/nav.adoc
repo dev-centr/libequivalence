@@ -1,1 +1,2 @@
-* xref:index.adoc[D Library Integration]
+.libequivalence
+* xref:index.adoc[Overview]
